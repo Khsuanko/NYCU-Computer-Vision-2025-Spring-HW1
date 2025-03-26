@@ -17,3 +17,6 @@ pip install torch torchvision torchaudio matplotlib tqdm pandas
     ├── val/
     ├── test/
 ```
+3. Run the code
+```python
+python train.py
