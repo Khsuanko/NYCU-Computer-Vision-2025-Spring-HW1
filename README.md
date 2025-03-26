@@ -20,3 +20,5 @@ pip install torch torchvision torchaudio matplotlib tqdm pandas
 3. Run the code
 ```python
 python train.py
+```
+## Performance snapshot
