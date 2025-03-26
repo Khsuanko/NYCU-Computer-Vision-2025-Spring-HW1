@@ -12,7 +12,7 @@ from tqdm import tqdm
 
 # Configurations
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-batch_size = 64
+batch_size = 128
 epochs = 20
 learning_rate = 0.01
 num_classes = 100
