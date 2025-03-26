@@ -22,3 +22,4 @@ pip install torch torchvision torchaudio matplotlib tqdm pandas
 python train.py
 ```
 ## Performance snapshot
+![performance]([https://example.com/image.png](https://github.com/Khsuanko/NYCU-Computer-Vision-2025-Spring-HW1/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-03-26%20235718.png))
