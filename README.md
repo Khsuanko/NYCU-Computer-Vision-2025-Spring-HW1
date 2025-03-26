@@ -19,7 +19,7 @@ pip install torch torchvision torchaudio matplotlib tqdm pandas
 ```
 3. Run the code
 ```python
-python train.py
+python HW1.py
 ```
 ## Performance snapshot
 ![performance](https://github.com/Khsuanko/NYCU-Computer-Vision-2025-Spring-HW1/blob/main/performance.png)
